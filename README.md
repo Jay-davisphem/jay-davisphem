@@ -26,3 +26,4 @@ styling skills you can check what I've been doing on [My Pen](https://codepen.io
 You can reach out to [ME](mailto:davidoluwafemi178@gmail.com), you might wanna help me, or maybe collaborate here on GitHub or any other project.
 
 ![David Oluwafemi Stats](https://github-readme-stats.vercel.app/api?username=Jay-davisphem&theme=highcontrast&show_icons=true&count_private=true)
+![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-davisphem)
