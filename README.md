@@ -27,3 +27,4 @@ You can reach out to [ME](mailto:davidoluwafemi178@gmail.com), you might wanna h
 
 ![David Oluwafemi Stats](https://github-readme-stats.vercel.app/api?username=Jay-davisphem&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-davisphem)
+[![Django projects](https://github-readme-stats.vercel.app/api/pin/?username=Jay-davisphem&repo=davisphem_heroku_website)](https://github.com/Jay-davisphem/davisphem_heroku_website)
